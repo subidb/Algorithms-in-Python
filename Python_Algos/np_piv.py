@@ -1,4 +1,6 @@
 
+# https://github.com/tensorflow/probability/blob/v0.12.2/tensorflow_probability/python/math/linalg.py#L264-L404
+
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
